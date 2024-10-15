@@ -1,6 +1,4 @@
-,Column1,Column2
-0,1,10
-1,2,NA
-2,N/A,30
-3,4,40
-4,5,50
+id,fullname,email
+1,foosss,foo@mail.com
+2,Roshan,roshan@mail.com
+3,Alex,alex@mail.com
